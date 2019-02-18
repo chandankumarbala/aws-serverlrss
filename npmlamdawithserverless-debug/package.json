@@ -1,0 +1,20 @@
+{
+  "name": "npmlamdawithserverless-debug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "serverless-offline": "^4.4.2"
+  },
+  "devDependencies": {
+    "serverless": "^1.37.1",
+    "serverless-http": "^1.9.1",
+    "serverless-offline": "^4.4.2"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/serverless offline -s dev",
+    "debug": "set SLS_DEBUG=* && node --inspect-brk ./node_modules/.bin/serverless offline -s dev"
+  },
+  "author": "chandanbala",
+  "license": "ISC"
+}
