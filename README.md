@@ -18,4 +18,5 @@ https://medium.com/the-node-js-collection/building-your-first-serverless-app-in-
 https://dev.to/adnanrahic/how-to-deploy-a-nodejs-application-to-aws-lambda-using-serverless-2nc7 <br />
 https://github.com/dherault/serverless-offline#installation. <br />
 https://github.com/AnomalyInnovations/serverless-nodejs-starter <br />
-
+https://theburningmonk.com/2017/08/running-and-debugging-aws-lambda-functions-locally-with-the-serverless-framework-and-vs-code/ <br />
+https://medium.com/@OneMuppet_/debugging-lambada-functions-locally-in-vscode-with-actual-break-points-deee6235f590 <br />
