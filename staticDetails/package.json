@@ -1,0 +1,17 @@
+{
+  "name": "staticdetails",
+  "version": "1.0.0",
+  "description": "locally developed lambda to give static responces",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "chandan bala",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.16.4",
+    "serverless-http": "^1.9.1",
+    "serverless-offline": "^4.4.2"
+  }
+}
